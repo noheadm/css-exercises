@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+#one{  
+    background-color: pink;
+    color: white;
+    font-size: 18px;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#three{
+    background-color: pink;
+    color: white;
+    font-size: 24px;
+}
+#four {
+    color:black;
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+    font-size: 24px;
+}
+#five {  
+    background-color: pink;
+    color: white;
+    font-size: 18px;
+}
